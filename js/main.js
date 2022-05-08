@@ -26,3 +26,10 @@ function includeHTML() {
     }
   }
 };
+
+
+function test() {
+
+    alert("this works");
+
+};
